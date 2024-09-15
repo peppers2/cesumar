@@ -12,6 +12,7 @@ st.set_page_config(page_title="Painel de Devolução", layout="wide")
 
 # TITULO DA PAGINA
 st.title("🚚 Painel de Tratativa de Anomalias")
+st.write("Projeto desenvolvido: Pedro Siqueira - RA: 23462442-4 - Unicesumar")
 
 
 
